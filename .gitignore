@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Editor configurations file, ignored to prevent conflicts
+.idea/
+.vscode/
