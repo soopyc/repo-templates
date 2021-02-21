@@ -25,4 +25,4 @@ pip install git+ssh://git@github.com/kcomain/dpextras
 ```
 
 # Contributing
-Refer to contributing.md
+Refer to [contributing.md](./contributing.md)

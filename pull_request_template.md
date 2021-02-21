@@ -8,12 +8,13 @@ assignees: kcomain
 ---
 
 # Checklist
-[ ] \*This PR contains **new features**
-[ ] \*This PR contains **bug fixes**
+- [ ] \*This PR contains **new features**
+- [ ] \*This PR contains **bug fixes**
 
-[ ] \*\*I have checked that there are no similar PRs to this one
-[ ] \*\*I confirm that I did not copy other people's code for this PR.
-[ ] \*\*I confirm that commit messages 
+
+- [ ] \*\*I have checked that there are no similar PRs to this one
+- [ ] \*\*I confirm that I did not copy other people's code for this PR.
+- [ ] \*\*I confirm that commit messages 
 *\*fill the check boxes with x where applicable*
 *\*\*this checkbox must be filled when marking PR as ready*
 <hr>

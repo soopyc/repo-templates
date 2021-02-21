@@ -8,7 +8,7 @@ assignees: kcomain
 ---
 
 # Checklist
-[ ] \*I have checked that there are no similar issues to this one
+- [ ] \*I have checked that there are no similar issues to this one
 
 *\*this checkbox must be filled*
 <hr>
